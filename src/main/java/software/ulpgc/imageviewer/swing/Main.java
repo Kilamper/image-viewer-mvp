@@ -8,10 +8,11 @@ import software.ulpgc.imageviewer.swing.MainFrame;
 import software.ulpgc.imageviewer.swing.PathFrame;
 
 import java.io.File;
+import java.net.MalformedURLException;
 
 public class Main {
     public static String root;
-    public static void main(String[] args) {
+    public static void main(String[] args) throws MalformedURLException {
         PathFrame pathFrame = new PathFrame();
         pathFrame.setVisible(true);
         while (root == null) {
