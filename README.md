@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Image Viewer es una aplicación de visualización de imágenes desarrollada en Java que sigue el patrón de diseño **Model-View-Presebter (MVP)**. Esta aplicación proporciona a los usuarios una interfaz intuitiva para cargar y visualizar sus imágenes de manera eficiente.
+Image Viewer es una aplicación de visualización de imágenes desarrollada en Java que sigue el patrón de diseño **Model-View-Presenter (MVP)**. Esta aplicación proporciona a los usuarios una interfaz intuitiva para cargar y visualizar sus imágenes de manera eficiente.
 
 ## Características
 
